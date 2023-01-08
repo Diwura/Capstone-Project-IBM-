@@ -1,4 +1,4 @@
-# Project 1: Battle for Neighborhoods.
+#  Battle for Neighborhoods.
 ## Final Project for IBM Data Science Professional Course: Project Overview
 * Made use of the Foursquare API to get location data.
 * K-Means Clustering algorithm from the python scipy package was used to determine relationship between different neighborhoods in Toronto.
